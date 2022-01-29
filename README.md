@@ -1,5 +1,3 @@
-# desafio-coder
-
 Clase 05 - Desafío adicional: 
 
 - Disparo de ráfagas
