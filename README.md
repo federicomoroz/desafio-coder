@@ -1,16 +1,3 @@
-# desafio-coder
+Ultimo desafío:
 
---- CONTROLES ---
--- Disparos:
-J: 2 municiones
-K: 3 municiones
-L: 4 municiones
-
--- Dirección de proyectiles:
-
-W: Arriba
-S: Abajo
-D: Derecha
-A: Izquierda
-Q: Adelante
-E: Atrás
+Clase 05 - Desafío adicional
