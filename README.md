@@ -6,12 +6,14 @@ Clase 05 - Desafío adicional:
 - Control de dirección de proyectiles
 
 --- CONTROLES ---
--- Disparos:
+
+-- Disparos --
+
 J: 2 municiones
 K: 3 municiones
 L: 4 municiones
 
--- Dirección de proyectiles:
+-- Dirección de proyectiles --
 
 W: Arriba
 S: Abajo
